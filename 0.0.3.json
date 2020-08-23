@@ -1,0 +1,17 @@
+{
+	"version": "0.0.3",
+	"sdk": {
+		"version": "0.0.3"
+	},
+	"template": {
+		"repository": "https://github.com/dmoroz0v/ChatBotTemplate.git",
+		"version": "0.0.5"
+	},
+	"tg": {
+		"version": "0.0.5"
+	},
+	"docker_template": {
+		"repository": "https://github.com/dmoroz0v/ChatBotDockerTemplate.git",
+		"version": "0.0.3"
+	}
+}
